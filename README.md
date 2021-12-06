@@ -143,6 +143,6 @@ Screenshot of Directory Opus with left panel at DH1:WHDLoad/Magazines and right 
 
 ### Music for AGS2 screenshot
 
-Screenshot of Directory Opus with left panel at DH1:Menu/AGS2Magazines/Music and right panel at PC: (added through WinUAE) ready for copying mod music files from PC to AGS2 magazines menu.
+Screenshot of Directory Opus with left panel at DH1:Menus/AGS2Magazines/Music and right panel at PC: (added through WinUAE) ready for copying mod music files from PC to AGS2 magazines menu.
 
 ![dopus_ags2magazines_music.png](screenshots/dopus_ags2magazines_music.png?raw=true)
