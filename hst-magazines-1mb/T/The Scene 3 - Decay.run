@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:S/Scene3Decay/Scene3Decay.slave
+
+; Run WHDLoad
+cd "A-Magazines:S/Scene3Decay/"
+IF EXISTS ENV:whdloadargs
+  whdload "Scene3Decay.slave" $whdloadargs
+ELSE
+  whdload "Scene3Decay.slave"
+ENDIF

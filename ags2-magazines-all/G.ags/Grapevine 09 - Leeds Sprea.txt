@@ -1,0 +1,4 @@
+Name    : Grapevine #09
+Groups  : Leeds Spreading Division
+Type    : Diskmag
+RunFile : Grapevine09.Slave

@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:0-9/42Issue2/42Issue2.Slave
+
+; Run WHDLoad
+cd "A-Magazines:0-9/42Issue2/"
+IF EXISTS ENV:whdloadargs
+  whdload "42Issue2.Slave" $whdloadargs
+ELSE
+  whdload "42Issue2.Slave"
+ENDIF

@@ -1,0 +1,25 @@
+echo "*ec" NOLINE
+IF EXISTS ENV:whdloadargs
+  copy >NIL: ENV:whdloadargs SYS:Prefs/WHDLoad/whdloadargs
+ELSE
+  IF EXISTS SYS:Prefs/WHDLoad/whdloadargs
+	  Delete >NIL: SYS:Prefs/WHDLoad/whdloadargs
+  ENDIF
+ENDIF
+IF EXISTS ENV:ags2favouritesmode
+  copy >NIL: ENV:ags2favouritesmode SYS:Prefs/AGS2/ags2favouritesmode
+ELSE
+  IF EXISTS SYS:Prefs/AGS2/ags2favouritesmode
+	  Delete >NIL: SYS:Prefs/AGS2/ags2favouritesmode
+  ENDIF
+ENDIF
+IF EXISTS ENV:ags2music
+  copy >NIL: ENV:ags2music SYS:Prefs/AGS2/ags2music
+ELSE
+  IF EXISTS SYS:Prefs/AGS2/ags2music
+	  Delete >NIL: SYS:Prefs/AGS2/ags2music
+  ENDIF
+ENDIF
+echo "Settings saved"
+wait 1
+echo "*ec" NOLINE

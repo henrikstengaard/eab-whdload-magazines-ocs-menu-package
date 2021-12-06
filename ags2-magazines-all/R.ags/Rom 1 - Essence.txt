@@ -1,0 +1,4 @@
+Name    : Rom #1
+Groups  : Essence
+Type    : Diskmag
+RunFile : ROM1.Slave

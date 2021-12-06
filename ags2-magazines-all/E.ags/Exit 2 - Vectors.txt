@@ -1,0 +1,4 @@
+Name    : Exit 2
+Groups  : Vectors
+Type    : Diskmag
+RunFile : Exit2.Slave

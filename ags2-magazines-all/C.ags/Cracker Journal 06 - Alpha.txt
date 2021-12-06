@@ -1,0 +1,4 @@
+Name    : Cracker Journal #06
+Groups  : Alpha Flight 1970
+Type    : Diskmag
+RunFile : CrackerJournal06.Slave

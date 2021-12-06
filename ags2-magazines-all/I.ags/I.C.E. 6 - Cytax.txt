@@ -1,0 +1,4 @@
+Name    : I.C.E. #6
+Groups  : Cytax
+Type    : Diskmag
+RunFile : Ice6.Slave

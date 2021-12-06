@@ -1,0 +1,4 @@
+Name    : Compass 1
+Groups  : Alcatraz
+Type    : Diskmagazine
+RunFile : Compass1.Slave

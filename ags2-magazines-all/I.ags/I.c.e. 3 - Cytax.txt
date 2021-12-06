@@ -1,0 +1,6 @@
+Name    : I.c.e. #3
+Groups  : Cytax
+Type    : Diskmag
+Party   : Ami Berlin 1991
+Rank    : N/a
+RunFile : Ice3.Slave

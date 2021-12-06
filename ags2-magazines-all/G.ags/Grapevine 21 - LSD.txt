@@ -1,0 +1,4 @@
+Name    : Grapevine 21
+Groups  : LSD
+Type    : Diskmagazine
+RunFile : Grapevine21.Slave

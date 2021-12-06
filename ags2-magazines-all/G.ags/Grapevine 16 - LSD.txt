@@ -1,0 +1,4 @@
+Name    : Grapevine 16
+Groups  : LSD
+Type    : Diskmagazine
+RunFile : Grapevine16.slave

@@ -1,0 +1,4 @@
+Name    : WorldCharts #15 AMIGA
+Groups  : Hoodlum,Scoopex,The Silents
+Type    : Diskmag
+RunFile : WorldCharts09.Slave

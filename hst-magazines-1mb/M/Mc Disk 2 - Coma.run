@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:M/McDisk2/McDisk2.Slave
+
+; Run WHDLoad
+cd "A-Magazines:M/McDisk2/"
+IF EXISTS ENV:whdloadargs
+  whdload "McDisk2.Slave" $whdloadargs
+ELSE
+  whdload "McDisk2.Slave"
+ENDIF

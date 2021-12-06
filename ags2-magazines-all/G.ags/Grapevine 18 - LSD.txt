@@ -1,0 +1,4 @@
+Name    : Grapevine 18
+Groups  : LSD
+Type    : Diskmagazine
+RunFile : Grapevine18.Slave

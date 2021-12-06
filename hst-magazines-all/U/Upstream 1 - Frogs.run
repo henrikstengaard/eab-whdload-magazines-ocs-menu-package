@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:U/Upstream01/Upstream01.Slave
+
+; Run WHDLoad
+cd "A-Magazines:U/Upstream01/"
+IF EXISTS ENV:whdloadargs
+  whdload "Upstream01.Slave" $whdloadargs
+ELSE
+  whdload "Upstream01.Slave"
+ENDIF

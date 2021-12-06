@@ -1,0 +1,4 @@
+Name    : Cracker Journal 3
+Groups  : Alpha Flight
+Type    : Diskmagazine
+RunFile : CrackerJournal03.Slave

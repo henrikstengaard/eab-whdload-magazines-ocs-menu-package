@@ -1,0 +1,5 @@
+Name    : Cracker Journal 15
+Groups  : Alpha Flight
+Type    : Diskmagazine
+Party   : Alpha Flight, Vision Factory and Powerslaves copy party
+RunFile : CrackerJournal15.Slave

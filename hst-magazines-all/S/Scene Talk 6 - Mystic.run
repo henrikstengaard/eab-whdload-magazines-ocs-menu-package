@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:S/SceneTalk6/SceneTalk6.Slave
+
+; Run WHDLoad
+cd "A-Magazines:S/SceneTalk6/"
+IF EXISTS ENV:whdloadargs
+  whdload "SceneTalk6.Slave" $whdloadargs
+ELSE
+  whdload "SceneTalk6.Slave"
+ENDIF

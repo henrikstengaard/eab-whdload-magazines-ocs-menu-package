@@ -1,0 +1,4 @@
+Name    : D.I.S.C issue 4
+Groups  : Level 4
+Type    : Diskmag
+RunFile : DISC4.Slave

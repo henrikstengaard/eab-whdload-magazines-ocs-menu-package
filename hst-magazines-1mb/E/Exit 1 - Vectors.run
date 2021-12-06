@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:E/Exit1/Exit1.Slave
+
+; Run WHDLoad
+cd "A-Magazines:E/Exit1/"
+IF EXISTS ENV:whdloadargs
+  whdload "Exit1.Slave" $whdloadargs
+ELSE
+  whdload "Exit1.Slave"
+ENDIF

@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:D/DISC1/DISC1.Slave
+
+; Run WHDLoad
+cd "A-Magazines:D/DISC1/"
+IF EXISTS ENV:whdloadargs
+  whdload "DISC1.Slave" $whdloadargs
+ELSE
+  whdload "DISC1.Slave"
+ENDIF

@@ -1,0 +1,4 @@
+Name    : Zine #04
+Groups  : Brainstorm
+Type    : Diskmag
+RunFile : Zine04.Slave

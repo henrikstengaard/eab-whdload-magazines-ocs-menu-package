@@ -1,0 +1,6 @@
+Name    : Zine #05
+Groups  : Brainstorm
+Type    : Diskmag
+Party   : Alcatraz Pentcost 1990
+Rank    : N/a
+RunFile : Zine05.slave

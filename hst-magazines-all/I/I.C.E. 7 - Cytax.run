@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:I/Ice7/Ice7.Slave
+
+; Run WHDLoad
+cd "A-Magazines:I/Ice7/"
+IF EXISTS ENV:whdloadargs
+  whdload "Ice7.Slave" $whdloadargs
+ELSE
+  whdload "Ice7.Slave"
+ENDIF

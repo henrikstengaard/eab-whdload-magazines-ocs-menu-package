@@ -1,0 +1,5 @@
+Name    : Grapevine 11
+Groups  : LSD
+Type    : Diskmagazine
+Party   : Quartz Summer Conference 92
+RunFile : Grapevine11.Slave

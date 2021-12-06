@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:F/FourthDimension2/FourthDimension2.Slave
+
+; Run WHDLoad
+cd "A-Magazines:F/FourthDimension2/"
+IF EXISTS ENV:whdloadargs
+  whdload "FourthDimension2.Slave" $whdloadargs
+ELSE
+  whdload "FourthDimension2.Slave"
+ENDIF

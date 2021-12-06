@@ -1,0 +1,4 @@
+Name    : Exit 1
+Groups  : Vectors
+Type    : Diskmag
+RunFile : Exit1.Slave

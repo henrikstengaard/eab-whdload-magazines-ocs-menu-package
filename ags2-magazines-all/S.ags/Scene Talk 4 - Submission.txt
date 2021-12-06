@@ -1,0 +1,4 @@
+Name    : Scene Talk 4
+Groups  : Submission
+Type    : Diskmagazine
+RunFile : SceneTalk4.Slave

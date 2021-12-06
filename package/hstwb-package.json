@@ -1,0 +1,27 @@
+{
+    "contentIds":
+    [
+        "eab-whdload-magazines-menu"
+    ],
+    "name": "EAB WHDLoad Magazines OCS Menu",
+    "version": "1.0.0",
+    "priority": 1000,
+    "assigns":
+    [
+        {
+            "name": "SYSTEMDIR"
+        },
+        {
+            "name": "MENUSDIR",
+            "path": "DH1:Menus"
+        },
+        {
+            "name": "FRONTENDSDIR",
+            "path": "DH1:"
+        },
+        {
+            "name": "MAGAZINESDIR",
+            "path": "DH1:WHDLoad/Magazines"
+        }
+    ]
+}

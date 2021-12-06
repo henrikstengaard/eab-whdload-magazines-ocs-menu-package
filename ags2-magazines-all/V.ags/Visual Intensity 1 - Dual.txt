@@ -1,0 +1,4 @@
+Name    : Visual Intensity 1
+Groups  : Dual Format
+Type    : Diskmagazine
+RunFile : VisualIntensity1.Slave

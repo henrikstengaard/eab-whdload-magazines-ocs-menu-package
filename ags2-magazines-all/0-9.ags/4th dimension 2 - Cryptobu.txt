@@ -1,0 +1,4 @@
+Name    : 4th dimension #2
+Groups  : Cryptoburners
+Type    : Diskmag
+RunFile : FourthDimension2.Slave

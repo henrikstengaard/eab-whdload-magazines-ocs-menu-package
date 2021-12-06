@@ -1,0 +1,4 @@
+Name    : Cracker Journal 16
+Groups  : Alpha Flight
+Type    : Diskmagazine
+RunFile : CrackerJournal16.Slave

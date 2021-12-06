@@ -1,0 +1,4 @@
+Name    : The Scene 3
+Groups  : Decay
+Type    : Diskmagazine
+RunFile : Scene3Decay.slave

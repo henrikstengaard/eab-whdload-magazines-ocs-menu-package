@@ -1,0 +1,4 @@
+Name    : Scene Talk 3
+Groups  : Submission
+Type    : Diskmagazine
+RunFile : SceneTalk3.slave

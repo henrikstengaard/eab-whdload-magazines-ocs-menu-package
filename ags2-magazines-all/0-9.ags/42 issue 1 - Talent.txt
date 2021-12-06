@@ -1,0 +1,4 @@
+Name    : 42 issue #1
+Groups  : Talent
+Type    : Diskmag
+RunFile : 42Issue1.Slave

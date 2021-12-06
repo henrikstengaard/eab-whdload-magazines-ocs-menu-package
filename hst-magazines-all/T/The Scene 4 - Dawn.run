@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:S/Scene4Prophecy/Scene4Prophecy.Slave
+
+; Run WHDLoad
+cd "A-Magazines:S/Scene4Prophecy/"
+IF EXISTS ENV:whdloadargs
+  whdload "Scene4Prophecy.Slave" $whdloadargs
+ELSE
+  whdload "Scene4Prophecy.Slave"
+ENDIF

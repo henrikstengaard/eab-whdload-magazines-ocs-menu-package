@@ -1,0 +1,6 @@
+Name    : Stolen Data 7
+Groups  : Anarchy,Flash Production
+Type    : Diskmag
+Party   : The Main Event 1991
+Rank    : N/a
+RunFile : StolenData07.Slave

@@ -1,0 +1,4 @@
+Name    : I.C.E. 2 Intro
+Groups  : Cytax
+Type    : Intro
+RunFile : Ice02.slave

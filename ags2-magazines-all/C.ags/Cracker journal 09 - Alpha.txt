@@ -1,0 +1,6 @@
+Name    : Cracker journal #09
+Groups  : Alpha Flight 1970
+Type    : Diskmag
+Party   : Alpha Flight and Spy &amp
+Rank    : N/a
+RunFile : CrackerJournal09.Slave

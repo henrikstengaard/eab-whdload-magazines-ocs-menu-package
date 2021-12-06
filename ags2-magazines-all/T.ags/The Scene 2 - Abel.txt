@@ -1,0 +1,4 @@
+Name    : The Scene 2
+Groups  : Abel
+Type    : Diskmagazine
+RunFile : Scene2Abel.Slave

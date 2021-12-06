@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:W/WorldCharts09/WorldCharts09.Slave
+
+; Run WHDLoad
+cd "A-Magazines:W/WorldCharts09/"
+IF EXISTS ENV:whdloadargs
+  whdload "WorldCharts09.Slave" $whdloadargs
+ELSE
+  whdload "WorldCharts09.Slave"
+ENDIF

@@ -1,0 +1,4 @@
+Name    : Scene Talk 8
+Groups  : Mystic
+Type    : Diskmagazine
+RunFile : SceneTalk8.Slave

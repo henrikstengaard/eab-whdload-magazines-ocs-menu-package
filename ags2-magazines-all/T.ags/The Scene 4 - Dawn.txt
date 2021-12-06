@@ -1,0 +1,4 @@
+Name    : The Scene 4
+Groups  : Dawn
+Type    : Diskmagazine
+RunFile : Scene4Prophecy.Slave

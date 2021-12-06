@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:R/ROM2/ROM2.Slave
+
+; Run WHDLoad
+cd "A-Magazines:R/ROM2/"
+IF EXISTS ENV:whdloadargs
+  whdload "ROM2.Slave" $whdloadargs
+ELSE
+  whdload "ROM2.Slave"
+ENDIF

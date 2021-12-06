@@ -1,0 +1,2 @@
+Change AGS2 to use HstWB Mags
+Selector skin

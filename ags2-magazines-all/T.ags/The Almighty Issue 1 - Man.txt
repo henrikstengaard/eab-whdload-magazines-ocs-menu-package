@@ -1,0 +1,4 @@
+Name    : The Almighty Issue #1
+Groups  : Manitou
+Type    : Diskmag
+RunFile : Almighty.Slave

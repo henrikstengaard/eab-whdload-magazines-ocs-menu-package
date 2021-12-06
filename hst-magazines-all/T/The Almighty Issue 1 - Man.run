@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:A/Almighty/Almighty.Slave
+
+; Run WHDLoad
+cd "A-Magazines:A/Almighty/"
+IF EXISTS ENV:whdloadargs
+  whdload "Almighty.Slave" $whdloadargs
+ELSE
+  whdload "Almighty.Slave"
+ENDIF

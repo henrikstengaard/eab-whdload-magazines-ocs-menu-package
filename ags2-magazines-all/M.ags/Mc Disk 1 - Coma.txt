@@ -1,0 +1,4 @@
+Name    : Mc Disk 1
+Groups  : Coma
+Type    : Diskmagazine
+RunFile : McDisk1.Slave

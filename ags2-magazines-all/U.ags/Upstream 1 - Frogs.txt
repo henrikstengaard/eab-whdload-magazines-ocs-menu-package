@@ -1,0 +1,4 @@
+Name    : Upstream #1
+Groups  : Frogs
+Type    : Diskmag
+RunFile : Upstream01.Slave

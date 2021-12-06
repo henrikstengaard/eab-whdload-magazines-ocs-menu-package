@@ -1,0 +1,4 @@
+Name    : Rom #2
+Groups  : Essence
+Type    : Diskmag
+RunFile : ROM2.Slave

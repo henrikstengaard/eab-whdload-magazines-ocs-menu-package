@@ -1,0 +1,35 @@
+; AGS2 run script
+; ---------------
+;RunFile=A-Magazines:Z/Zine02/Zine02.Slave
+
+; Favourites Mode
+IF EXISTS ENV:ags2favouritesmode
+  execute S:AGS2Favourites "Z" "Zine 02 - Brainstorm"
+  IF $ags2favouritesmode EQ "add"
+    SKIP end
+  ENDIF
+  IF $ags2favouritesmode EQ "remove"
+    SKIP end
+  ENDIF
+ENDIF
+
+; Start AGS2 Run Pre Script, if it exists
+IF EXISTS S:AGS2RunPre
+  execute S:AGS2RunPre
+ENDIF
+
+; Run WHDLoad
+cd "A-Magazines:Z/Zine02/"
+IF EXISTS ENV:whdloadargs
+  whdload "Zine02.Slave" $whdloadargs
+ELSE
+  whdload "Zine02.Slave"
+ENDIF
+
+; Start AGS2 Run Post Script, if it exists
+IF EXISTS S:AGS2RunPost
+  execute S:AGS2RunPost
+ENDIF
+
+; End
+LAB end

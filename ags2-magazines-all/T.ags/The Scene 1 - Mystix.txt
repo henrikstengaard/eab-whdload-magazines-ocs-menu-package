@@ -1,0 +1,4 @@
+Name    : The Scene 1
+Groups  : Mystix
+Type    : Diskmagazine
+RunFile : Scene1.Slave

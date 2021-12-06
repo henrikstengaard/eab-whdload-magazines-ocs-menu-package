@@ -1,0 +1,18 @@
+# automatically line-endings for files detected as text
+* text=auto
+
+# unix forced line-endings
+*.* text eol=lf
+
+# windows forced line-endings
+*.ps1 text eol=crlf
+
+# archives
+*.lha binary
+*.lzx binary
+*.zip binary
+
+# images
+*.png binary
+*.jpg binary
+*.iff binary

@@ -1,0 +1,4 @@
+Name    : D.I.S.C Issue 7
+Groups  : Level 4
+Type    : Diskmag
+RunFile : DISC7.Slave

@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:G/Grapevine08/Grapevine08.Slave
+
+; Run WHDLoad
+cd "A-Magazines:G/Grapevine08/"
+IF EXISTS ENV:whdloadargs
+  whdload "Grapevine08.Slave" $whdloadargs
+ELSE
+  whdload "Grapevine08.Slave"
+ENDIF

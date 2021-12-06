@@ -1,0 +1,5 @@
+Name    : Grapevine 17
+Groups  : LSD
+Type    : Diskmagazine
+Party   : Digital Symposium 1993
+RunFile : Grapevine17.Slave

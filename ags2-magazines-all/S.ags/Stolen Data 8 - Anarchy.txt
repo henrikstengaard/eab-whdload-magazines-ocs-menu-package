@@ -1,0 +1,4 @@
+Name    : Stolen Data 8
+Groups  : Anarchy
+Type    : Diskmag
+RunFile : StolenData08.Slave

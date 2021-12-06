@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:S/Scene2Abel/Scene2Abel.Slave
+
+; Run WHDLoad
+cd "A-Magazines:S/Scene2Abel/"
+IF EXISTS ENV:whdloadargs
+  whdload "Scene2Abel.Slave" $whdloadargs
+ELSE
+  whdload "Scene2Abel.Slave"
+ENDIF

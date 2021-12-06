@@ -1,0 +1,4 @@
+Name    : Cracker Journal #04
+Groups  : Alpha Flight 1970
+Type    : Diskmag
+RunFile : CrackerJournal04.slave

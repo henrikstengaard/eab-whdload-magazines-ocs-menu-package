@@ -1,0 +1,11 @@
+; Hst Launcher run script
+; -----------------------
+;RunFile=A-Magazines:V/VisualIntensity1/VisualIntensity1.Slave
+
+; Run WHDLoad
+cd "A-Magazines:V/VisualIntensity1/"
+IF EXISTS ENV:whdloadargs
+  whdload "VisualIntensity1.Slave" $whdloadargs
+ELSE
+  whdload "VisualIntensity1.Slave"
+ENDIF
